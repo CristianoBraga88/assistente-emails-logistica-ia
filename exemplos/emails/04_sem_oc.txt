@@ -1,0 +1,6 @@
+De: vendas.interno@exemplo.com
+Data: 12/11/2026 14:20
+Assunto: Reagendar entrega cliente Rede Demo
+
+Pessoal, o cliente pediu para reagendar a entrega para semana que vem, mas não passou a data ainda.
+Conseguem verificar?

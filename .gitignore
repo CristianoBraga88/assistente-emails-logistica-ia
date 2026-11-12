@@ -1,0 +1,7 @@
+# segredos e dados reais nunca vão pro GitHub
+.env
+saida/
+__pycache__/
+venv/
+.venv/
+*.eml
